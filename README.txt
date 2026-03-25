@@ -17,3 +17,6 @@ This document contains the executive abstract and the full bibliography of sourc
 
 3. Capers_Poster Board_24x36.pdf
 This document contains the poster board for this study, presented at the 2026 Intelligence Studies Consortium Symposium on 24 March 2026.
+
+4. Symposium Handout.pdf
+This document contains the information provided in the handout at the 2026 Intelligence Studies Consortium Symposium on 24 March 2026. 

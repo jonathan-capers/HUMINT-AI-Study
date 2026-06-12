@@ -1,8 +1,8 @@
 # From Tedium to Tradecraft: Deploying AI to the Front Lines of HUMINT Operations
 
-This repository contains documents for the upcoming thesis "From Tedium to Tradecraft: Deploying AI to the Front Lines of HUMINT Operations." This study is under production to meet the research requirements for a Master of Science in Strategic Intelligence at the National Intelligence University. 
+This repository contains documents for the upcoming thesis "From Tedium to Tradecraft: Deploying AI to the Front Lines of HUMINT Operations." This study was produced to meet the research requirements for a Master of Science in Strategic Intelligence at the National Intelligence University. 
 
-Researcher: CW2 Jonathan M. Capers, HUMINT Technician, U.S. Army
+Researcher: CW2 Jonathan M. Capers, HUMINT Technician, US Army
 
 ## Repository Contents
 
